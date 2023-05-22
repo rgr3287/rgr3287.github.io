@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "plain";
+@import "{{ site.theme }}";
 
 {% if site.plainwhite.search %}
   @import "search";
