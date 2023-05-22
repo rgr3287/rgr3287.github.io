@@ -55,6 +55,13 @@ theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
 #  - jekyll-feed
 futrue: true
 published: true
