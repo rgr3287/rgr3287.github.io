@@ -1,29 +1,51 @@
-# Portfolio
+# Jekyll Theme - Mundana by WowThemes.net
 
-A simple and modern portfolio template that is lightweight, mobile responsive and looks modern. 
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-- [Demo](#demo)
-- [Screenshots](#screenshots)
-- [Features](#features)
-- [Installation](#installation)
+![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-### Demo
-[abhn.io](https://abhn.io)
+### Documentation
 
-### Screenshots
-![homepage](tmp/screenshot.jpg?raw=true "Homepage")
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-### Features
-- Single page portfolio made with vanilla CSS and jQuery
-- Sections: Landing, About, Skills (with neat bar graphs), Projects, Contact
-- Smooth scrolling
-- Fully mobile responsive, made with latest CSS3 grid and flexbox, polyfills included
-- Lightweight and easily customizable
+### Contribute to Mundana repository
 
-### Installation
-- Clone this repository and in the settings, set up Github pages in the setting and optionally a custom domain. The site is live now on `your-username.github.io/portfolio`.
-- In the config variables, add your details and if you use Google Analytics, add your Publisher ID in the `google_analytics` variable.
-- You can add/remove sections from the `_layouts/default.html` file, and then adding the corresponding html file in `_includes/` directory.
+1. In the top-right corner of this page, click **Fork**.
 
-### License
-GPL
+2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
+
+   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+
+3. **Create a branch**: 
+
+   `git checkout -b <my-new-feature-or-fix>`
+
+4. **Make necessary changes and commit those changes**:
+
+   `git add .`
+
+   `git commit -m "new feature or fix"`
+
+5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+
+   `git push origin <add-your-branch-name>`
+
+6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
+
+That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+
+
+### Copyright
+
+Copyright (C) 2019 WowThemes.net.
+
+Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
+
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+### Live Demo
+
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
