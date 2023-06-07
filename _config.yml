@@ -1,6 +1,6 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: hyungeun Gwak
+description: Web Engineer
+site_title: '@grooo - hyungeun Gwak'
 
 # Build settings
 markdown: kramdown
@@ -8,11 +8,11 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: abhn
-blog_url: https://www.nagekar.com
+blog_url: https://blog.naver.com/rgr3287
 email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+keybase_username: hyun
+twitter_username: hyun_
+reddit_username: hyun
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
