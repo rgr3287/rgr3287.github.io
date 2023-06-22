@@ -7,9 +7,9 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
+github_username: rgr3287
 blog_url: https://rgr3287.tistory.com/
-email: abhishek@nagekar.com
+email: rgr3287@naver.com
 keybase_username: hyun
 twitter_username: hyun_
 reddit_username: hyun
