@@ -63,6 +63,14 @@
 	-webkit-border-radius:3px;
 }
 
+.skillbar-bar-inner {
+	height: 100%;
+	background: #3498db; /* Inner bar color */
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
 .skill-bar-percent {
 	position:absolute;
 	right:10px;
